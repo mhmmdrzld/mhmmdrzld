@@ -19,7 +19,7 @@
 
 Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm an open-source profession. Currently, I'm working on Koperasi Pedami and [rutik.id](https://github.com/rutikproject). Beside's programming, I like delicious food 🥗🥩🌮🍣 and playing game 🎮.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img align="right" alt="GIF"  width="370px" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
