@@ -29,7 +29,6 @@ Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm
 - 💼 I’m pursuing a Bachelor Degree and I've finished my diploma.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via mrizaldi1998@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
 ![mhmmdrzld's github stats](https://github-readme-stats.vercel.app/api?username=mhmmdrzld&show_icons=true&hide_border=true)
 
