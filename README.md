@@ -32,6 +32,6 @@ Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm
 
 ![mhmmdrzld's github stats](https://github-readme-stats.vercel.app/api?username=mhmmdrzld&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
-![mhmmdrzld's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdrzld&layout=compact)
+![mhmmdrzld's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdrzld&layout=compact&hide_border=true)
 
 ⭐️ From [mhmmdrzld](https://github.com/mhmmdrzld)
