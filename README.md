@@ -30,6 +30,8 @@ Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via mrizaldi1998@gmail.com to reach me.
 
-![mhmmdrzld's github stats](https://github-readme-stats.vercel.app/api?username=mhmmdrzld&show_icons=true&hide_border=true)
+![mhmmdrzld's github stats](https://github-readme-stats.vercel.app/api?username=mhmmdrzld&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+
+![mhmmdrzld's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdrzld&layout=compact)
 
 ⭐️ From [mhmmdrzld](https://github.com/mhmmdrzld)
