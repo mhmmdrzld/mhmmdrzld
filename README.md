@@ -1,5 +1,4 @@
 ### Welcome to mhmmdrzld's Hut 👋
-
 <a href="https://twitter.com/mhmmdrzld">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>
@@ -12,10 +11,13 @@
 <a href="https://www.facebook.com/masihkurus/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
-
-
+<a href="#">
+  <img align="left" alt="Profil Visit" width="100px" src="https://komarev.com/ghpvc/?username=mhmmdrzld&label=Profile%20views&color=0e75b6&style=flat" />
+</a>
 <br />
 <br />
+
+
 
 Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm an open-source profession. Currently, I'm working on Koperasi Pedami and [rutik.id](https://github.com/rutikproject). Beside's programming, I like delicious food 🥗🥩🌮🍣 and playing game 🎮.
 
@@ -29,9 +31,12 @@ Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm
 - 💼 I’m pursuing a Bachelor Degree and I've finished my diploma.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via mrizaldi1998@gmail.com to reach me.
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=mhmmdrzld">
+<br>
 
 ![mhmmdrzld's github stats](https://github-readme-stats.vercel.app/api?username=mhmmdrzld&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
 ![mhmmdrzld's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdrzld&layout=compact&hide_border=true)
+
 
 ⭐️ From [mhmmdrzld](https://github.com/mhmmdrzld)
