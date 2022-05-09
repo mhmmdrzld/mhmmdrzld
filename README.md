@@ -25,7 +25,7 @@ Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on Koperasi Pedami and [rutik.id](https://github.com/rutikproject).
+- 👨🏻‍💻 I’m currently working on BKPSDM Tanah Laut and freelance [rutik.id](https://github.com/rutikproject).
 - 🌱 I’m currently learning Codeigniter and Jquery.
 - 🤔 My research interests are with A.I, Neuro-linguistic programming, etc.
 - 💼 I’m pursuing a Bachelor Degree and I've finished my diploma.
