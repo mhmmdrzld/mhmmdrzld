@@ -21,7 +21,7 @@
 
 Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm an open-source profession. Currently, I'm working on BKPSDM Tanah Laut and [rutik.id](https://github.com/rutikproject). Beside's programming, I like delicious food 🥗🥩🌮🍣 and playing game 🎮.
 
-<a href="https://app.daily.dev/mhmmdrzld"><img src="https://api.daily.dev/devcards/0b3adfbc3e62461db261672382606b5c.png?r=39n" width="400" alt="Muhammad Rizaldi's Dev Card"/></a>
+<a href="https://app.daily.dev/mhmmdrzld"><img src="https://api.daily.dev/devcards/0b3adfbc3e62461db261672382606b5c.png?r=39n" width="200" alt="Muhammad Rizaldi's Dev Card"/></a>
 
 **Current Status Quo**
 
