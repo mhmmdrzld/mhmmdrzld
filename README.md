@@ -21,7 +21,7 @@
 
 Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm an open-source profession. Currently, I'm working on BKPSDM Tanah Laut and [rutik.id](https://github.com/rutikproject). Beside's programming, I like delicious food 🥗🥩🌮🍣 and playing game 🎮.
 
-  <img align="right" alt="GIF"  width="370px" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<a href="https://app.daily.dev/mhmmdrzld"><img src="https://api.daily.dev/devcards/0b3adfbc3e62461db261672382606b5c.png?r=39n" width="400" alt="Muhammad Rizaldi's Dev Card"/></a>
 
 **Current Status Quo**
 
@@ -38,7 +38,7 @@ Hi, I'm Rizaldi 😉, a junior programmer 👨🏻‍💻 from Indonesia ID. I'm
 
 ![mhmmdrzld's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdrzld&layout=compact&hide_border=true)
 
-<a href="https://app.daily.dev/mhmmdrzld"><img src="https://api.daily.dev/devcards/0b3adfbc3e62461db261672382606b5c.png?r=39n" width="400" alt="Muhammad Rizaldi's Dev Card"/></a>
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mhmmdrzld)
 
